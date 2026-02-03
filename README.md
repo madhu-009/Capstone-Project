@@ -1,4 +1,6 @@
-# Capstone Project for Winter Consulting 2025 - Regional Airline × Fuel Price Shock: Navigating Profitability, Stability, and Growth
+# Capstone Project for Winter Consulting 2025 
+
+# Regional Airline × Fuel Price Shock: Navigating Profitability, Stability, and Growth
 
 Context: 
 
